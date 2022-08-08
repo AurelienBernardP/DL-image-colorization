@@ -1,0 +1,4 @@
+network_painting_10_epochs.pth
+network_painting_20_epochs.pth
+network_painting_40_epochs.pth
+soft_encoded_images.pkl
