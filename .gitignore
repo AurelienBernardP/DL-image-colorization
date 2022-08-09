@@ -3,3 +3,6 @@ network_painting_20_epochs.pth
 network_painting_40_epochs.pth
 soft_encoded_images.pkl
 network_painting_30_epochs.pth
+network_100.pkl
+network_painting_50_epochs_retrained.pth
+network_painting_70_epochs_retrained.pth
