@@ -6,3 +6,4 @@ network_painting_30_epochs.pth
 network_100.pkl
 network_painting_50_epochs_retrained.pth
 network_painting_70_epochs_retrained.pth
+network_painting_90_epochs_retrained.pth
