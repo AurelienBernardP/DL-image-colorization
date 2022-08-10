@@ -7,3 +7,7 @@ network_100.pkl
 network_painting_50_epochs_retrained.pth
 network_painting_70_epochs_retrained.pth
 network_painting_90_epochs_retrained.pth
+network_cat_10_epochs_retrained_1.pth
+soft_encoded_images_1hot_cat.pkl
+soft_encoded_images_1hot_cat2.json
+soft_encoded_images_1hot_cat2.pkl
