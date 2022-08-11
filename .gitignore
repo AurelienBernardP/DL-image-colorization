@@ -11,3 +11,10 @@ network_cat_10_epochs_retrained_1.pth
 soft_encoded_images_1hot_cat.pkl
 soft_encoded_images_1hot_cat2.json
 soft_encoded_images_1hot_cat2.pkl
+image-colorization.py
+network_cat_15_epochs_4_1.pth
+network_cat_30_epochs_1.pth
+network_cat_45_epochs_4_2.pth
+network_cat_100_epochs_4_3.pth
+network_cat_130_epochs_4_4.pth
+archive.zip
